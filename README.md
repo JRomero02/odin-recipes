@@ -1,0 +1,1 @@
+This project covers the HTML topics I have learned so far. The main topics being working with text, lists, links, and images.
